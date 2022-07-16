@@ -19,7 +19,7 @@ Easy to use web application where user can apply filters, rotate the image and f
 </ol>
 
 ## Deployment
-Site: 
+Site: https://handy-image-editor.netlify.app
 
 ## Browser support
 * Chrome (latest)
